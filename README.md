@@ -1,2 +1,2 @@
 # quiz
-oposite kbc
+oposite kbc quiz
